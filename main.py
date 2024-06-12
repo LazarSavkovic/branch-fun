@@ -1,5 +1,11 @@
-print('hello')
 
-print(len([4,6,8,9]))
+def main():
 
-print('Goodbye and farewell!')
+    print('hello')
+
+    print(len([4,6,8,9]))
+
+    print('Goodbye and farewell!')
+
+
+main()
